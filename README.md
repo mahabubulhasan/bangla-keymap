@@ -21,8 +21,9 @@
 
 ### Bangla Pad
 
+![Keyboard Selection](banglapad.png)
 
-
+বাংলাপ্যাড সম্পর্কে বিস্তারিত পাবেন [এই লিংকটিতে](https://uzzal.wordpress.com/2012/02/17/bangla-pad-updated)
 
 
 
