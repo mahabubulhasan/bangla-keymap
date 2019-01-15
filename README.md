@@ -19,6 +19,19 @@
 | ও → O | ঞ → NG | প → p | হ → h / H | ু → u | - | হ্ন → H+n / h+n
 | ঔ → Ou / OU | ট → t | ফ → ph / f | - | ূ → uu | - | ক্স → x / k+s
 
+### দরকারি কিছু উদাহরণ
+
+| শব্দ → Keymap | শব্দ → Keymap | শব্দ → Keymap|
+| - | - | - |
+| কৃষক → kWSk | অঞ্জন → aoNG+jn | কোদাল → koDal
+| চট্টগ্রাম → ct+tg+ram | বিজ্ঞান → biggan / bij+NGn | চাঁদ → ca^D
+| মধ্যাহ্ন → mDhYaH+n | ব্রাহ্মণ → b+raH+mN | ব়্যাব → rYab
+| অপরাহ্ণ → aopraH+N | সহজ → sHj | কার্য → kar+z
+| হৃদয় → HwrDy | বাংলা → bangla | কক্সবাজার → kxbajar
+| সহিষ্ণু → sHiS+Nu | ঐতিয্য → OiTizY | পদ্মা → pD+ma
+| গঙ্গা → gNg+ga | ঈদ → IID | সফ্টওয়্যার → sf+tOyYar |
+| মৃত্যু → mWTYu | উজ্জ্বল → Uj+j+bl | শব্দ → shb+D |
+
 ### Bangla Pad
 
 ![Keyboard Selection](banglapad.png)
