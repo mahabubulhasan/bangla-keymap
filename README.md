@@ -23,7 +23,7 @@
 
 ![Keyboard Selection](banglapad.png)
 
-বাংলাপ্যাড সম্পর্কে বিস্তারিত পাবেন [এই লিংকটিতে](https://uzzal.wordpress.com/2012/02/17/bangla-pad-updated)
+বাংলাপ্যাড সম্পর্কে বিস্তারিত পাবেন [এই লিংকটিতে](https://uzzal.wordpress.com/2012/02/17/bangla-pad-updated) অথবা সরাসরি ডাউনলোড করে নিতে পারেন [এই লিংক থেকে](https://1drv.ms/f/s!AqnPPGw11COJghqGgUPHsfJCy931)
 
 
 
