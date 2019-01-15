@@ -19,6 +19,9 @@
 | ও → O | ঞ → NG | প → p | হ → h / H | ু → u | - | হ্ন → H+n / h+n
 | ঔ → Ou / OU | ট → t | ফ → ph / f | - | ূ → uu | - | ক্স → x / k+s
 
+### Bangla Pad
+
+
 
 
 
